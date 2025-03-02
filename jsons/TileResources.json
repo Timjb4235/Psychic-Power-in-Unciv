@@ -1,0 +1,6 @@
+{
+  "name": "Psychic Power",
+		"resourceType": "Strategic",
+		"terrainsCanBeFoundOn": [],
+		"uniques": "stockpiled"
+}
