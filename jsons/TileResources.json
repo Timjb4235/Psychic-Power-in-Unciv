@@ -2,6 +2,6 @@
     {
   	"name": "Psychic Power",
 	"resourceType": "Strategic",
-	"uniques": ["stockpiled"]
+	"uniques": ["Stockpiled"]
     }
 ]
