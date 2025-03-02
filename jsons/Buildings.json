@@ -10,7 +10,7 @@
 		"culture": 1,
 		"cityStrength": 2,
 		"cost": 1,
-		"uniques": ["Indicates the capital city","Provides [2] [Psychic Power]"]
+		"uniques": ["Indicates the capital city","Instantly provides [2] [Psychic Power]"]
 	},
 	{
 		"name": "Breeders",
