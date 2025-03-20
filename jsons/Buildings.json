@@ -1,7 +1,6 @@
 [
 	{
 		"name": "Palace",
-		"replaces": "Palace",
 		"isNationalWonder": true,
 		"production": 3,
 		"science": 3,
