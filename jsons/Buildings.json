@@ -1,8 +1,7 @@
 [
 	{
-		"name": "Palace2",
+		"name": "Palace",
 		"replaces": "Palace",
-		"uniqueTo": "Aliens",
 		"isNationalWonder": true,
 		"production": 3,
 		"science": 3,
