@@ -11,6 +11,14 @@
 		"uniques": ["Indicates the capital city","Instantly provides [2] [Psychic Power] <upon turn start>"]
 	},
 	{
+		"name": "Monument",
+		"culture": 2,
+		"cost": 40,
+		"hurryCostModifier": 40,
+		"maintenance": 1,
+		"uniques": ["Destroyed when the city is captured", "Instantly provides [2] [Psychic Power] <upon turn start>"]
+	},
+	{
 		"name": "Breeders",
 		"replaces": "Aqueduct",
 		"uniqueTo": "Aliens",
