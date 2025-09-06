@@ -10,7 +10,7 @@
             "Scientific": 5
         },
         "uniques": [
-            "[-25]% Culture cost of natural border growth [in all cities]"
+            "Comment ['Provides 2 Psychic Power per broadcast tower, and 5 Psychic Power during a golgen age']"
         ],
         "policies": [
             {
